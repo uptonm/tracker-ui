@@ -9,6 +9,10 @@
   },
   "description": "A component library for the food-truck tracker project",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uptonm/tracker-ui.git"
+  },
   "dependencies": {
     "axios": "^0.19.0",
     "normalize.css": "^8.0.1",
