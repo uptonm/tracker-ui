@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import './assets/styles/flexboxgrid.min.css';
-import './assets/styles/index.min.css';
+import './assets/styles/index.min.scss';
+import './assets/styles/flexboxgrid.min.scss';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
